@@ -1,0 +1,15 @@
+C:\Users\Timur\Desktop\finalWork\Stage_4\bin\Debug\net7.0\Stage_4.exe
+C:\Users\Timur\Desktop\finalWork\Stage_4\bin\Debug\net7.0\Stage_4.deps.json
+C:\Users\Timur\Desktop\finalWork\Stage_4\bin\Debug\net7.0\Stage_4.runtimeconfig.json
+C:\Users\Timur\Desktop\finalWork\Stage_4\bin\Debug\net7.0\Stage_4.dll
+C:\Users\Timur\Desktop\finalWork\Stage_4\bin\Debug\net7.0\Stage_4.pdb
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.csproj.AssemblyReference.cache
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.AssemblyInfo.cs
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.dll
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\refint\Stage_4.dll
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.pdb
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\Stage_4.genruntimeconfig.cache
+C:\Users\Timur\Desktop\finalWork\Stage_4\obj\Debug\net7.0\ref\Stage_4.dll
